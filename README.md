@@ -1,4 +1,4 @@
-# AWS RDS Terraform module
+# AWS RDS Terraform module v2.15.0
 
 Terraform module which creates RDS resources on AWS.
 
